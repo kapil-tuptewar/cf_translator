@@ -1,5 +1,6 @@
 (() => {
-	const upstream = 'va2-test-hbobid.pubmatic.com';
+	// const upstream = 'va2-test-hbobid.pubmatic.com';
+	const upstream = 'hbopenbid.pubmatic.com';
 	const upstream_path = '/';
 	const https = true;
   
